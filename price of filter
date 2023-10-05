@@ -1,0 +1,27 @@
+ <div class="boder p-4">
+                            <div class="d-flex align-items-center justify-content-between">
+                                <h3 class="text-uppercase fs-5 fw-bold">Dưới 2 triệu</h3>
+                                <i class="fa-solid fa-magnifying-glass search-icon-filter pointer"></i>
+                            </div>
+                            <div class="d-flex align-items-center mt-3 cursor">
+                                <input class="me-3 pointer" type="radio" name="TshirtsType" id="TshirtsSelect">
+                                <label class="fs-5 pointer" for="TshirtsSelect">Từ 2 - 4 triệu</label>
+                            </div>
+                            <div class="d-flex align-items-center mt-3 cursor">
+                                <input class="me-3 pointer" type="radio" name="Jackets" id="JacketSelect">
+                                <label class="fs-5 pointer" for="JacketSelect">Từ 4 - 7 triệu</label>
+                            </div>
+                            <div class="d-flex align-items-center mt-3 cursor">
+                                <input class="me-3 pointer" type="radio" name="TshirtsType" id="TshirtsSelect">
+                                <label class="fs-5 pointer" for="TshirtsSelect">Từ 7 - 13 triệu</label>
+                            </div>
+                            <div class="d-flex align-items-center mt-3 cursor">
+                                <input class="me-3 pointer" type="radio" name="Jackets" id="JacketSelect">
+                                <label class="fs-5 pointer" for="JacketSelect">Từ 13 - 20 triệu</label>
+                            </div>
+                            <div class="d-flex align-items-center mt-3 cursor">
+                                <input class="me-3 pointer" type="radio" name="TshirtsType" id="TshirtsSelect">
+                                <label class="fs-5 pointer" for="TshirtsSelect">Trên 20 triệu</label>
+                            </div>
+                            <!-- <a href="#" class="text-decoration-none d-block text-danger text-center">+29 more</a> -->
+                        </div>
